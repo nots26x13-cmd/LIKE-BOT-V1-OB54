@@ -26,7 +26,7 @@ app = Flask(__name__)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CONFIG_RO_PATH = os.path.join(BASE_DIR, "keys.json")   # packaged (read-only on Vercel)
 CONFIG_RW_PATH = os.path.join("/tmp", "keys.json")     # runtime copy (writable on Vercel)
-OWNER_HANDLE = "TG: @arafat_codex"
+OWNER_HANDLE = "TG: @s26x_beast"
 
 config_lock = RLock()
 
