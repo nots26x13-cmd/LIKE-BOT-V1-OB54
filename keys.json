@@ -1,0 +1,10 @@
+{
+  "ALLOWED_KEYS": {
+    "220LIkesByArafatCodex": 50
+  },
+  "ADMIN_KEYS": [
+    "ARCDX"
+  ],
+  "RESET_TZ": "Asia/Dhaka"
+}
+
